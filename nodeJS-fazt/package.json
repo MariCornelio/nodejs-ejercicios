@@ -1,0 +1,21 @@
+{
+  "name": "aprendiendonode",
+  "version": "1.0.0",
+  "description": "este es mi primer proyect",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "divaca": "cowsay Hola mari"
+  },
+  "keywords": [
+    "first",
+    "project",
+    "node.js"
+  ],
+  "author": "Mari Cornelio",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
